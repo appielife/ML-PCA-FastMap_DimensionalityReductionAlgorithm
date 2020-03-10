@@ -1,6 +1,5 @@
-#!/usr/bin/env python3
 
-# This python implementation of the FAST MAP algorith has been done as pt_a joint work of Arpit Parwal (aparwal@usc.edu) and Yeon-soo Park ( )
+# This python implementation of the FAST MAP algorith has been done as pt_a joint work of Arpit Parwal (aparwal@usc.edu) and Yeon-soo Park (yeonsoop@usc.edu )
 # The distances are provided in pt_a separate data file
 
 
